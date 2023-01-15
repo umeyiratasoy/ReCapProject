@@ -88,7 +88,7 @@ After running the Web API, you can make HTTP requests like:
 
 ## Associated Project
 
-The frontend of this project [ReCarProject-Frontend](#) | Will be added later.
+The frontend of this project [ReCarProject-Frontend](https://github.com/umeyiratasoy/ReCapProjectFrontend)
 
 ## Contributions
 
